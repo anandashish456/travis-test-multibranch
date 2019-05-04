@@ -5,4 +5,4 @@ install:
  - "pip install requests"
 script:
  - python -m pytest src/tests
- - cp -r src/ /Users/ashianan/Desktop/Development/Production/
+ - cp -r src/ PROD/ 
